@@ -17,6 +17,7 @@ INSERT INTO
 	(121, "Kamol Kumar Paul", "Real Madrid" , "India", "Eating"),
 	(109, "Ankar Kumar Saha", "Barcelona", "Bangladesh", "Who knows"),
 	(119, "Jahid", "Real Madrid" , "India", "only sleep is real "),
+	(136, "Pranto", "N/A" , "Bangladesh", "Cricket"),
 	(120, "Fahim","FCB", "AUS", "Sleeping");
 SELECT * FROM 
 	temp_table_for_delete_opeation_check;
