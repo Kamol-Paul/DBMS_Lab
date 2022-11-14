@@ -48,3 +48,7 @@ RIGHT  JOIN vips
 SELECT * FROM employee
 	NATURAL JOIN works
 	NATURAL JOIN manages;
+#if there is no common key between two table then 
+# natural join is just cross product
+SELECT * FROM guests
+	NATURAL JOIN vips;
